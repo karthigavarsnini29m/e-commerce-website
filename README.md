@@ -1,4 +1,4 @@
-# e-commerce-website
+# E-commerce-website
 # ShopEase — Full-Stack E-Commerce Website
 
 A complete, functional full-stack e-commerce application built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Users can register, log in, browse/search products, manage a cart, place orders, and track them. Admins can manage products, orders, and view users from a dedicated admin panel.
